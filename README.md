@@ -1,6 +1,6 @@
 ### Wasup! 👋
 
-I'm looking to become the strongest frontend developer I can be. Watch this space!
+Always improving. Watch this space!
 
 - 🔭 I’m currently working on developing a DnD spell recommender using React, TailwindCSS and GraphQL
 - 🌱 I’m currently learning NextJS
