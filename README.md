@@ -1,5 +1,12 @@
-### Hi there 👋
+### Wasup! 👋
 
+I'm looking to become the strongest frontend developer I can be. Watch this space!
+
+- 🔭 I’m currently working on developing a DnD spell recommender using React, TailwindCSS and GraphQL
+- 🌱 I’m currently learning NextJS
+- 👯 I’m looking to collaborate on mission-driven projects
+- 📫 How to reach me: soriano.jeffm@gmail.com
+- ⚡ Fun fact: My BBQ skillz are pretty good
 <!--
 **jeff-soriano/jeff-soriano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
