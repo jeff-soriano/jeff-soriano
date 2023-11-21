@@ -2,7 +2,9 @@
 
 Always improving. Watch this space!
 
-- 🔭 I’m currently working on developing a DnD spell recommender using React, TailwindCSS and GraphQL
+- 🔭 I’m currently working on developing:
+  - a DnD spell recommender using React, TailwindCSS and GraphQL
+  - a gamified engagement enhancer for conventions using React, Material UI, and Node
 - 🌱 I’m currently learning NextJS
 - 👯 I’m looking to collaborate on mission-driven projects
 - 📫 How to reach me: soriano.jeffm@gmail.com
